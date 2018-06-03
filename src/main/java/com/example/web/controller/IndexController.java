@@ -4,7 +4,9 @@ package com.example.web.controller;
  
  git init
  git add --all
+ git status
  git commit -m "first commit"
+ git remote add origin https://github.com/pktkumar/PhoneNumberRestWebService.git
  git push origin master
 
   
