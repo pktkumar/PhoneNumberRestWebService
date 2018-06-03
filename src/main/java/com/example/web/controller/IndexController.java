@@ -9,8 +9,10 @@ package com.example.web.controller;
  git remote add origin https://github.com/pktkumar/PhoneNumberRestWebService.git
  git push origin master
 
-git commit  src/main/java/com/example/web/controller/IndexController.java -m "IndexController.java modified"
+ git commit  src/main/java/com/example/web/controller/IndexController.java -m "IndexController.java modified"
  git push origin master
+
+
 
 
   
